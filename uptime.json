@@ -1,0 +1,13 @@
+[
+    {
+      "timestamp": "2024-08-02T12:00:00Z",
+      "status": "UP",
+      "responseTime": 120
+    },
+    {
+      "timestamp": "2024-08-02T13:00:00Z",
+      "status": "DOWN",
+      "responseTime": 0
+    }
+  ]
+  

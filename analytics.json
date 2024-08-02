@@ -1,0 +1,15 @@
+[
+    {
+      "deviceId": "device1",
+      "timestamp": "2024-08-02T12:00:00Z",
+      "metric1": 300,
+      "metric2": 45
+    },
+    {
+      "deviceId": "device2",
+      "timestamp": "2024-08-02T12:30:00Z",
+      "metric1": 500,
+      "metric2": 60
+    }
+  ]
+  
